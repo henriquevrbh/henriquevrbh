@@ -1,4 +1,4 @@
-# Henrique Ribeiro
+# Henrique do Vale Ribeiro
 
 Information Systems student at UFMG, interested in technology, software development, and the intersection between technology and business.
 
