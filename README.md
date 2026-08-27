@@ -4,7 +4,7 @@ Information Systems student at UFMG, interested in technology, software developm
 
 ## About Me
 
-🎓 Information Systems — Federal University of Minas Gerais (UFMG)
+🎓 Information Systems - Federal University of Minas Gerais (UFMG)
 
 💻 Software development and technology
 
@@ -20,7 +20,7 @@ C · C++ · Python · JavaScript · SQL
 
 **Technologies & Tools**
 
- AWS · Git · GitHub · Linux
+AWS · Git · GitHub · Linux
 
 ## Academic Projects
 
@@ -28,12 +28,12 @@ On my profile, you will find repositories documenting projects I have developed 
 
 Some of the projects I have worked on during my undergraduate studies include:
 
-* **Mini Social Network** — C++ application developed as an academic project, involving object-oriented programming, testing, and modular software organization.
-* **Inverted Index** — Implementation of data structures and algorithms for search and indexing.
-* **PageRank** — Implementation and analysis of the PageRank algorithm.
+* **[Inverted Index](https://github.com/henriquevrbh/tp3-inverted-index-search)** - Implementation of data structures and algorithms for search and indexing.
+* **[PageRank](https://github.com/henriquevrbh/tp1-pagerank)** - Python implementation and analysis of the PageRank algorithm.
+* **[Mini Social Network](https://github.com/henriquevrbh/PDS2-2025.1-Rede-Social)** - C++ application developed as an academic project, involving object-oriented programming, testing, and modular software organization.
 
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/henrique-do-vale-ribeiro/)
 
-[GitHub](https://github.com/henriquevrbh)
+[Email](mailto:henriquevrbh@gmail.com)
