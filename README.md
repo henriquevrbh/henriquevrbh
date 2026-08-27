@@ -1,12 +1,14 @@
 # Henrique do Vale Ribeiro
 
+Information Systems student at UFMG with experience in project management and a strong interest in software development.
+
 ## About Me
 
 🎓 Information Systems - Federal University of Minas Gerais (UFMG)
 
 💻 Software development and technology
 
-📚 Academic projects involving algorithms, data structures, software engineering, and systems development
+🧠 Academic projects involving algorithms, data structures, software engineering, and systems development
 
 🚀 Interested in transforming business problems into solutions through technology
 
