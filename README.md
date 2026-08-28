@@ -34,7 +34,10 @@ Some of the projects I have worked on during my undergraduate studies include:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriquevrbh)
+<p>
+  <img src="./profile/stats.svg" width="410" align="top" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" width="410" align="top" alt="Top Languages"/>
+</p>
 
 ## Contact
 
