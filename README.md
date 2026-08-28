@@ -28,9 +28,9 @@ On my profile, you will find repositories documenting projects I have developed 
 
 Some of the projects I have worked on during my undergraduate studies include:
 
-* **[Inverted Index](https://github.com/henriquevrbh/tp3-inverted-index-search)** - Implementation of data structures and algorithms for search and indexing.
-* **[PageRank](https://github.com/henriquevrbh/tp1-pagerank)** - Python implementation and analysis of the PageRank algorithm.
-* **[Mini Social Network](https://github.com/henriquevrbh/PDS2-2025.1-Rede-Social)** - C++ application developed as an academic project, involving object-oriented programming, testing, and modular software organization.
+* **[Inverted Index](https://github.com/henriquevrbh/inverted-index-search)** - Implementation of data structures and algorithms for search and indexing.
+* **[PageRank](https://github.com/henriquevrbh/pagerank)** - Python implementation and analysis of the PageRank algorithm.
+* **[Terminal Social Network](https://github.com/henriquevrbh/terminal-social-network)** - C++ application developed as an academic project, involving object-oriented programming, testing, and modular software organization.
 
 ## Contact
 
