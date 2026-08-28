@@ -35,8 +35,8 @@ Some of the projects I have worked on during my undergraduate studies include:
 ## GitHub Stats
 
 <p>
-  <img src="./profile/stats.svg" width="410" align="top" alt="GitHub Stats"/>
-  <img src="./profile/top-langs.svg" width="410" align="top" alt="Top Languages"/>
+  <img src="./profile/stats.svg" width="400" align="top" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" width="350" align="top" alt="Top Languages"/>
 </p>
 
 ## Contact
