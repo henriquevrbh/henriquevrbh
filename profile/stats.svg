@@ -1,14 +1,14 @@
 
       <svg
-        width="345.8999967575073"
+        width="418.233329296112"
         height="145"
-        viewBox="0 0 345.8999967575073 145"
+        viewBox="0 0 418.233329296112 145"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Henrique Ribeiro&#39;s GitHub Stats, Rank: C</title>
+        <title id="titleId">Henrique do Vale Ribeiro&#39;s GitHub Stats, Rank: C</title>
         <desc id="descId">Total Stars Earned: 1, Total Commits  : 326, Contributed to (last year): 0</desc>
         <style>
           .header {
@@ -110,7 +110,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="344.8999967575073"
+          width="417.233329296112"
           fill="#0D1117"
           stroke-opacity="0"
         />
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Henrique Ribeiro&#39;s GitHub Stats</text>
+      >Henrique do Vale Ribeiro&#39;s GitHub Stats</text>
     </g>
       </g>
     
