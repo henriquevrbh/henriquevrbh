@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="166.18"
+          width="166.12"
           height="8"
           fill="#f34b7d"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="166.18"
+          x="166.12"
           y="0"
-          width="71.39"
+          width="71.36"
           height="8"
           fill="#e34c26"
         />
@@ -156,7 +156,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="237.57"
+          x="237.48000000000002"
           y="0"
           width="10.58"
           height="8"
@@ -166,7 +166,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.15"
+          x="248.06000000000003"
           y="0"
           width="11.54"
           height="8"
@@ -176,9 +176,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.69"
+          x="249.60000000000002"
           y="0"
-          width="10.31"
+          width="10.4"
           height="8"
           fill="#427819"
         />
@@ -189,14 +189,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 66.47%
+        C++ 66.45%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 28.55%
+        HTML 28.54%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -217,7 +217,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#427819" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Makefile 0.12%
+        Makefile 0.16%
       </text>
     </g>
   </g></g>
